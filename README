@@ -1,1 +1,3 @@
 This project is devoted to making simple and convenient calculators.
+pc:
+	Reverse polish  calculator without the bells and whistles. It can read from argv.
